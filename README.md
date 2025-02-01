@@ -79,11 +79,3 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 3. Make your changes and commit: `git commit -m "Description of changes"`
 4. Push to the branch: `git push origin feature-branch`
 5. Submit a pull request. 🚀
-
----
-
-## 📧 Contact
-For questions or suggestions, reach out via:
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/network-device-scanner/issues)
-
